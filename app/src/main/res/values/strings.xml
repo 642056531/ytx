@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MCB</string>
+
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="user_agreement">《用户协议及隐私协议》</string>
+    <string name="read">阅读</string>
+    <string name="login_to_agree_tip">请先勾选同意《用户协议及隐私协议》</string>
+    <string name="login">登录</string>
+
+</resources>
